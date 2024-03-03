@@ -1,0 +1,119 @@
+body {
+    /* background: #b4eeca; */
+    background-image: url("coffee.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: lightcoral;
+    font: 32px Monaco, Helvetica, serif;
+}
+
+h2 {
+    font: 27px Monaco;
+    font-weight: bold;
+    color: #80f0f0;
+}
+
+h3 {
+    color:#80f0f0
+}
+
+table {
+    width: 50%;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+.navbar {
+    background-color: lightcoral;
+}
+
+section {
+    border: 3px solid lightcoral;
+    padding: 20px;
+    margin: 30px;
+}
+
+p {
+    margin-top:10px;
+    text-align: center;
+}
+
+header {
+    padding: 30px;
+    /* background-image: linear-gradient(to right, #b4eeca, #def7e7 ); */
+}
+
+#submit-btn {
+    display: block;
+    border-radius: 5px;
+    background-color: #b4eeca;
+    color: blueviolet;
+    font-weight: bolder;
+    padding: 8px;
+}
+
+#addpad {
+    padding-block: 30px;
+}
+
+#special {
+    text-align: left;
+    color: white;
+}
+
+.sectionbg{
+    background-color: aliceblue;
+}
+.extraPad {
+    padding-bottom: 0px;
+    padding-top: 8px;
+}
+
+.cardQuote {
+    background-color: #b4eeca;
+    border: 3px solid blueviolet;
+}
+
+.icons {
+    color: white;
+}
+
+.carl {
+    text-align: right;
+    margin-right: 130px;
+}
+
+.modal-header {
+    background-color: lightcoral;
+}
+
+.modal-title {
+    color: white
+}
+
+.cafe-1 {
+    height: 520px;
+}
+
+.btn77 {
+    background-color: lightcoral;
+    border: none;
+}
+
+#loginU {
+    text-decoration: none;
+}
+
+.class77 {
+    background-color: lightcoral;
+    padding-bottom: 20px;
+}

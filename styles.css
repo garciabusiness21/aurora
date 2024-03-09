@@ -100,10 +100,6 @@ header {
     color: white
 }
 
-.cafe-1 {
-    height: 520px;
-}
-
 .btn77 {
     background-color: lightcoral;
     border: none;
@@ -116,4 +112,30 @@ header {
 .class77 {
     background-color: lightcoral;
     padding-bottom: 20px;
+}
+
+.car-bg {
+    background-color: grey;
+    background: rgba(0,0,0,0.5);
+    border-radius: 25px;
+}
+
+
+
+.carousel-inner {
+    height: 0;
+    padding-bottom: 55%;
+}
+
+.carousel-item {
+    position: absolute !important; /* Important to override Bootstrap's default */
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
 }
